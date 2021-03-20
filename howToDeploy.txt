@@ -1,0 +1,35 @@
+1. Heroku login
+2. Git bash
+3. Heroku cli
+Complete the above three things
+
+Make sure to have following files/folders inside the project folder:
+1. app.py
+2. requirements.txt
+3. Procfile
+4. static folder
+5. templates folder
+
+Further steps:
+
+1. Now open git bash
+2. Make your project folder as the working directory using cd commands.
+3. Initialise a git folder in the project folder using-
+    'git init'
+    Above will clear some git folders in the project folder
+    But they will be hidden. To see check the view hidden files option
+    Till now we have initialised git. But it does not know anything about our project
+4. Use 'git status' to track what files does git know for now
+5. git add .
+    . means all the files of the folder.
+6. Now save the changes as version-1
+
+    git commit -m "initial commit"
+
+    -m is for any msg
+    and we can give any msg.
+
+7. heroku create (if it is not working - use 'heroku login' in cmd)
+    it will create a blank application for us into our heroku account over web. We can go there and check it too.
+8. git remote -v
+9. git push heroku master
