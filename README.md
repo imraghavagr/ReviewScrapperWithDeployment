@@ -7,7 +7,7 @@ I have created it as a first step to learn databases, web API and deployment.
 
 ## Table of contents
 * [Technologies](#technologies)
-* [Installation of rquired libraries](#Installation)
+* [Installation](#installation-of-rquired-libraries)
 * [Steps for Deployment](#StepsForDeployment)
 
 ## Technologies
