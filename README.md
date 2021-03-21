@@ -1,8 +1,8 @@
 # ReviewScrapperWithDeployment
 
 ## Introduction
-
-Review Scrapper is explicitly coded to scrap product reviews from www.flipkart.com
+You can find the deployed project here - https://arcane-reef-23941.herokuapp.com/
+Review Scrapper is coded in Python to scrap product reviews from www.flipkart.com.
 I have created it as a first step to learn databases, web API and deployment.
 
 ## Table of contents
