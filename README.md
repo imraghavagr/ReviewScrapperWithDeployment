@@ -39,4 +39,7 @@ $ git remote -v
 $ git push heroku master
 ```
 ## Illustrations
-![FLipkart Image](./flipkartImage.PNG)
+![Searching for iphone 12 on Flipkart](./images/flipkartImage.PNG)
+![Searching for the same product on our page](./images/projectImage1.PNG)
+![Scrapped reviews from flipkart](./images/projectImage2.PNG)
+
