@@ -21,16 +21,18 @@ For now database connection with pymongo is only made in the local web API which
 For deployment i have made a seperate file - 'app.py', which does not deals with database.
 
 ## Installation
-*$ pip install -r requirements.txt
+$ pip install -r requirements.txt
 
 ## Steps for Deployment
-*$ Heroky login
+$ Heroky login
 
 Make sure to have app.py, requirements.txt, Procfile, Static and templates folder in the project directory. Open git bash and make your project directory as working directory. Also make sure to install heroku cli in your system.
 
-*$ git init
-*$ git add .
-*$ git commit -m "initial commit"
-*$ heroku create
-*$ git remote -v
-*$ git push heroku master
+'''
+$ git init
+$ git add .
+$ git commit -m "initial commit"
+$ heroku create
+$ git remote -v
+$ git push heroku master
+'''
