@@ -30,7 +30,7 @@ $ pip install -r requirements.txt
 Make sure to have app.py, requirements.txt, Procfile, Static and templates folder in the project directory. Open git bash and make your project directory as working directory. Also make sure to install heroku cli in your system.
 
 ```
-$ Heroky login
+$ Heroku login
 $ git init
 $ git add .
 $ git commit -m "initial commit"
