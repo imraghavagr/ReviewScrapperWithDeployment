@@ -7,7 +7,7 @@ I have created it as a first step to learn databases, web API and deployment.
 
 ## Table of contents
 * [Technologies](#technologies)
-* [IntallationOfLibraries](#installation-of-libraries)
+* [Installation](#installation)
 * [DeploymentSteps](#deployment-steps)
 
 ## Technologies
@@ -20,7 +20,7 @@ Project is created with:
 For now database connection with pymongo is only made in the local web API which recides in flask_app.py
 For deployment i have made a seperate file - 'app.py', which does not deals with database.
 
-## Intallation Of Libraries
+## Installation
 ```
 $ pip install -r requirements.txt
 ```
