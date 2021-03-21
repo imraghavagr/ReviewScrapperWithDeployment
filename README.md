@@ -9,6 +9,7 @@ I have created it as a first step to learn databases, web API and deployment.
 * [Technologies](#technologies)
 * [Installation](#installation)
 * [DeploymentSteps](#deployment-steps)
+* [Illustrations](#illustrations)
 
 ## Technologies
 Project is created with:
@@ -37,4 +38,5 @@ $ heroku create
 $ git remote -v
 $ git push heroku master
 ```
-
+## Illustrations
+![FLipkart Image](./flipkartImage.PNG)
