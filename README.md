@@ -8,7 +8,7 @@ I have created it as a first step to learn databases, web API and deployment.
 ## Table of contents
 * [Technologies](#technologies)
 * [Installation](#Installation)
-* [Steps for Deployment](#Steps for Deployment)
+* [Steps for Deployment](#StepsForDeployment)
 
 ## Technologies
 Project is created with:
