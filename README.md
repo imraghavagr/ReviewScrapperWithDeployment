@@ -7,8 +7,8 @@ I have created it as a first step to learn databases, web API and deployment.
 
 ## Table of contents
 * [Technologies](#technologies)
-* [Installation](#installation-of-rquired-libraries)
-* [Steps for Deployment](#StepsForDeployment)
+* [IntallationOfLibraries](#installation-of-libraries)
+* [DeploymentSteps](#deployment-steps)
 
 ## Technologies
 Project is created with:
@@ -20,11 +20,11 @@ Project is created with:
 For now database connection with pymongo is only made in the local web API which recides in flask_app.py
 For deployment i have made a seperate file - 'app.py', which does not deals with database.
 
-## Installation
+## Intallation Of Libraries
 ```
 $ pip install -r requirements.txt
 ```
-## Steps for Deployment
+## Deployment Steps
 
 Make sure to have app.py, requirements.txt, Procfile, Static and templates folder in the project directory. Open git bash and make your project directory as working directory. Also make sure to install heroku cli in your system.
 
